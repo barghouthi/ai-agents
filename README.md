@@ -3,77 +3,84 @@
 
 This is the website for the *AI agents* class (CS 839, Spring 2026) at UW-Madison.
 
+For submitting assignments, reports, reviews, etc., see canvas.
+
 ## schedule
 
 #### week 0 (Jan 20)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 1 (Jan 27)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 2 (Feb 3)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 3 (Feb 10)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 4 (Feb 17)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 5 (Feb 24)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 6 (Mar 3)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 7 (Mar 10)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 8 (Mar 17)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 9 (Mar 24)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### 🌴 Spring Break (Mar 28 - Apr 5)
 
 #### week 10 (Apr 7)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 11 (Apr 14)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 12 (Apr 21)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
 #### week 13 (Apr 28)
-Tuesday:
+day 1:
 
-Thursday:
+day 2:
 
+## grading
+- 15% buy-in assignment
+- 15% participation
+- 10% paper reviews
+- 60% final project (write up and presentation)
