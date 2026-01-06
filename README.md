@@ -182,6 +182,10 @@ day 1:
 
 day 2:
 
+## assignments
+
+- [Build a Coding Agent](assignment.md) — individual assignment
+
 ## grading
 - 15% buy-in assignment
 - 15% participation
