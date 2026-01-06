@@ -27,4 +27,4 @@ This is an **individual** assignment.
 
 Submit via Canvas using one of the following methods:
 - **Option A:** Zip your code repository and upload it
-- **Option B:** Share a link to a public GitHub repository
+- **Option B:** Share a link to a public GitHub repository (if you're comfortable) or add username `barghouthi` to your private repo.
