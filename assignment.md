@@ -14,6 +14,7 @@ Your task is to build a coding agent with a command-line interface (CLI), simila
    - Send requests to an LLM API
    - Parse and execute tool calls / function calls
    - Display results to the user
+5. **Professional CLI design** — your interface should be clear and polished, similar in style to Claude Code or Cursor Agent (e.g., readable output formatting, clear prompts, visual feedback for operations)
 
 ## Deliverables
 
