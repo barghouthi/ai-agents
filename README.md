@@ -26,11 +26,8 @@ Tue:
     - *supplementary:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
   - *supplementary:* [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
-
 - *supplementary:* [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 - *supplementary:* [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
-
-
 
 Thu:
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
@@ -56,7 +53,6 @@ Tue:
 Thu:
 - [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
   - *supplementary:* [RepairAgent: An Autonomous, LLM-Based Agent for Program Repair](https://arxiv.org/abs/2403.17134)
-
 - [BaxBench: Can LLMs Generate Correct and Secure Backends?](https://arxiv.org/pdf/2502.11844)
   - *supplementary:* [RedCode: Risky Code Execution and Generation Benchmark for Code Agents](https://arxiv.org/abs/2411.07781)
   - *supplementary:* [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854)
@@ -88,10 +84,8 @@ Tue:
   - *supplementary:* [ChemCrow: Augmenting Large Language Models with Chemistry Tools](https://arxiv.org/abs/2304.05376)
   
 Thu:
-
 - [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864)
   - *supplementary:* [SciAgents: Automating Scientific Discovery through Multi-Agent Systems](https://arxiv.org/abs/2409.05556)
-
 - [Automated Hypothesis Validation with Agentic Sequential Falsifications](https://arxiv.org/abs/2502.09858)
 
 ### week 5 (Feb 24)
@@ -134,7 +128,6 @@ Tue:
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 - [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)
   
-
 Thu:
 - [AlphaEvolve: A Gemini-powered Coding Agent for Designing Advanced Algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
 - [Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646)
